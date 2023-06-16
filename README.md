@@ -6,7 +6,7 @@ test.csv) should be used for model testing. More details about the creation and 
 
 ## Data
 
-Please download [AlbMoRe corpus](http://hdl.handle.net/11234/1-5165) and place the two files train.csv and test.csv inside the data/ folder. Afterwards, you can run the code of this repository using the following command 
+Please download [AlbMoRe corpus](http://hdl.handle.net/11234/1-5165) and place the two files train.csv and test.csv inside the data/ folder. Afterwards, you can run the code of this repository using the following command: 
 
 ```
 $ python basic_experiments.py -c <classifier>
