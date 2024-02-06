@@ -1,7 +1,6 @@
 # AlbMoRe
 
-This repository contains Python code for reproducing the experiments with movie reviews in Albanian presented in this [paper](https://arxiv.org/abs/2306.08526). AlbMoRe is a sentiment analysis corpus of movie reviews in Albanian, consisting of 800 records in CSV format. Each record includes a text review retrieved from IMDb and translated in Albanian by the author. It also contains a 0 (negative) or 1 (positive) label added by the author. The corpus is fully balanced, consisting of 400 positive and 400 negative reviews about 67 movies of different genres. From the total of 800 records, 600 of them should be used for model training and development (file train.csv) and the remaining 200 (file test.csv) should be used for model testing. More details about the creation and the contents of CSRCZ dataset can be found [here](https://arxiv.org/abs/2306.08526).
-
+This repository contains Python code for reproducing the experiments with movie reviews in Albanian presented in this [paper](https://arxiv.org/abs/2306.08526). AlbMoRe is a sentiment analysis corpus of movie reviews in Albanian, consisting of 800 records in CSV format. Each record includes a text review retrieved from IMDb and translated in Albanian by the author. It also contains a 0 (negative) or 1 (positive) label added by the author. The corpus is fully balanced, consisting of 400 positive and 400 negative reviews about 67 movies of different genres. From the total of 800 records, 600 of them should be used for model training and development (file train.csv) and the remaining 200 (file test.csv) should be used for model testing. More details about the creation and the contents of AlbMoRe can be found [here](https://arxiv.org/abs/2306.08526).
 
 ## Data
 
